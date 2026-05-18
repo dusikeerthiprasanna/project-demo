@@ -1,2 +1,6 @@
-# demo
-This is my first repository
+# project-demo
+This is my first Git Repository
+Author - Keerthi Prasanna
+
+
+
